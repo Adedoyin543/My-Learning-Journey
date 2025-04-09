@@ -5,8 +5,8 @@
 <li>Version control System</li>
 <li>Platforms for programming </li>
 <li>Application of IOT in Mathematics
-<li>HTML TAGS </li>
-
+<li>HTML Tags</li>
+<li>HTML landmark elements </li>
 
 
 
