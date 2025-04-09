@@ -9,6 +9,6 @@
 <li>HTML landmark elements </li>
 <li>How to add inline styling </li>
 <li>Block and inline elements </li>
-
+<li>Writing of Logbook </li>
 
 
