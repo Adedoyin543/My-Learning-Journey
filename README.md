@@ -8,7 +8,7 @@
 <li>HTML Tags</li>
 <li>HTML landmark elements </li>
 <li>How to add inline styling </li>
-
+<li>Block and inline elements </li>
 
 
 
