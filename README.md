@@ -12,3 +12,4 @@
 <li>Writing of Logbook </li>
 <li>Common git commands </li>
 <li>Creating my first projrct </li>
+<li>first project continues </li>
